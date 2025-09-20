@@ -1,0 +1,2 @@
+fastapi
+sentence_transformers
