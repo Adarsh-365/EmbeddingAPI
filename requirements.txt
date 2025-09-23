@@ -1,3 +1,4 @@
 fastapi
-sentence_transformers
+langchain_core
+huggingface_hub
 uvicorn
